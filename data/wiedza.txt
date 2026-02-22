@@ -1,0 +1,6 @@
+# Polityka Pracy Zdalnej w Firmie AI-Corp
+
+1.  **Zasady ogólne**: Praca zdalna jest przywilejem, a nie prawem. Firma AI-Corp oferuje model hybrydowy.
+2.  **Wymagane dni w biurze**: Wszyscy pracownicy muszą być w biurze we wtorki i czwartki, aby wspierać współpracę.
+3.  **Godziny pracy**: Standardowe godziny pracy to 9:00 - 17:00 czasu polskiego. Wymagana jest dostępność online w tych godzinach.
+4.  **Sprzęt**: Firma dostarcza laptopa i monitor. Pracownik jest odpowiedzialny za stabilne łącze internetowe.

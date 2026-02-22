@@ -1,0 +1,4 @@
+{
+  "okay,_let's_see._the_user_asked_\"jaki_sprz\u0119t_dostarcza_firma?\"_which_translates_to_\"what_equipment_does_the_company_deliver?\"_in_polish._the_context_provided_says": "\"4. Sprz\u0119t: Firma dostarcza laptopa i monitor. Pracownik jest odpowiedzialny za stabilne \u0142\u0105cze internetowe.\" So the company delivers a laptop and a monitor.",
+  "the_assistant's_previous_response_was_\"laptop_i_monitor\"._now,_the_task_is_to_extract_new_user_information_in_key": "value format. If there's nothing new, write \"BRAK\"."
+}
